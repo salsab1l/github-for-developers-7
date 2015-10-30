@@ -1,5 +1,5 @@
 ## Welcome to GitHub Training
-
+## Thanks for the warm welcome. I am doing my first steps in coding.
 ## Class Goals
 
 During this class, you will learn:
